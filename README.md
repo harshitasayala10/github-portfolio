@@ -37,6 +37,8 @@ Here's a breakdown of my technical toolkit:
 * **Web Technologies:** Node.js, React
 * **Productivity Tools:** Microsoft Office Suite (Word, Excel, PowerPoint, Outlook), Google Workspace (Docs, Sheets, Slides, Drive)
 
+---
+
 ### 🚀 My Featured Projects
 
 Here are some of my key projects, demonstrating my expertise in data analytics, machine learning, and data engineering. Each link leads to a dedicated repository with full details, code, and often visualizations or demos.
@@ -65,6 +67,8 @@ Here are some of my key projects, demonstrating my expertise in data analytics, 
 * **Description:** Built a **domain-specific chatbot** using **Retrieval-Augmented Generation (RAG)** to assist lawyers in legal research. Processed and embedded 10,000+ legal document chunks for semantic search.
 * **Key Achievements:** Integrated **OpenAI GPT-3.5** for clause-level answers with **>90% answer relevance**. Created an interactive **Streamlit** interface, reducing review time by ~60 mins/doc. Orchestrated pipeline with **LangChain**.
 * **Technologies:** `LLMs (OpenAI GPT-3.5)`, `RAG`, `LangChain`, `Streamlit`, `SentenceTransformers`, `FAISS`, `Python`
+
+---
 
 ### Let's Connect!
 
