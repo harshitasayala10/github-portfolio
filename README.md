@@ -14,6 +14,8 @@ I'm deeply passionate about leveraging data to **extract meaningful insights** a
 
 I thrive on tackling **complex data challenges** through **collaborative problem-solving** and **clear communication**, always eager to apply my **analytical and technical expertise** to drive **innovative and impactful business outcomes**.
 
+---
+
 ### 🛠️ Technical Skills
 
 Here's a breakdown of my technical toolkit:
