@@ -64,7 +64,7 @@ Here are some of my key projects, demonstrating my expertise in data analytics, 
 * **Key Achievements:** Integrated **OpenAI GPT-3.5** for clause-level answers with **>90% answer relevance**. Created an interactive **Streamlit** interface, reducing review time by ~60 mins/doc. Orchestrated pipeline with **LangChain**.
 * **Technologies:** `LLMs (OpenAI GPT-3.5)`, `RAG`, `LangChain`, `Streamlit`, `SentenceTransformers`, `FAISS`, `Python`
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 I'm always open to discussing **collaborations, opportunities, and innovative data solutions**. Feel free to connect or reach out!
 
