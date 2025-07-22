@@ -2,8 +2,6 @@
 
 ### 🎓 About Me
 
-### 🎓 About Me
-
 A **detail-oriented Master's student** in **Data Analytics** at SJSU, I possess a **strong foundation** in **data warehousing, ETL workflows, machine learning, and data visualization**.
 
 I'm deeply passionate about leveraging data to **extract meaningful insights** and **build intelligent solutions**, with interests spanning:
